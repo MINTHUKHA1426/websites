@@ -117,7 +117,7 @@ Searching for pairing service requires access to the local network, and many man
 
 ### Start via wireless debugging: immediately fail after tapping "Enter pairing code"
 
-#### MIUI (Xiaomi, POCO)
+#### HYPER OS(Xiaomi, POCO)
 
 Switch notification style to "Android" from "Notification" - "Notification shade" in system settings.
 
@@ -143,7 +143,7 @@ Disable "Flyme payment protection" in "Developer options".
 - Do not disable "USB debugging" and "Developer options".
 - Change the USB usage mode to "Charge only" in the "Developer options".
   
-  On Android 8, the option is "Select USB configuration" - "Charge only".
+  On Android 12, the option is "Select USB configuration" - "Charge only".
   
   On Android 9+, the option is "Default USB configuration" - "No data transfer".
 
